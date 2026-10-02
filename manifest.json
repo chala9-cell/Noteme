@@ -1,0 +1,19 @@
+{
+  "name": "Noteme",
+  "short_name": "Noteme",
+  "description": "Notes, savings and budget in one place.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8FB",
+  "theme_color": "#F7A8C8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
